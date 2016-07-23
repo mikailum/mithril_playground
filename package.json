@@ -3,6 +3,7 @@
   "description": "Fun UI/data binding examples.",
   "private": true,
   "dependencies": {
+    "jquery": "*",
     "mithril": "*"
   }
 }
